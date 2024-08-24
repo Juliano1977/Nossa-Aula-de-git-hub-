@@ -16,7 +16,7 @@ Projeto Dev/WEB Aula 5
 
  ><b>A Introdução é a apresentação do trabalho, ou seja, o texto
  
- <a href="https://WWW.facebook.com/" target="_blank">facebook</a>
+ <a href="https://WWW.facebook.com.br/" target="_blank">facebook</a>
  <a href="2pagina.html">Pagina 2</a>
 
 
